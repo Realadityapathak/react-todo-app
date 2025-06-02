@@ -1,4 +1,4 @@
-﻿# React Todo App
+
 # React Todo App
 React To-Do List App
 A modern, feature-rich To-Do List application built with React. This app provides a clean interface for managing daily tasks with advanced filtering, sorting, and data persistence capabilities.
