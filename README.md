@@ -30,7 +30,7 @@ npm or yarn
 Steps
 
 Clone the repository
-bashgit clone https://github.com/yourusername/react-todo-app.git
+bashgit clone https://github.com/Realadityapathak/react-todo-app.git
 cd react-todo-app
 
 Install dependencies
